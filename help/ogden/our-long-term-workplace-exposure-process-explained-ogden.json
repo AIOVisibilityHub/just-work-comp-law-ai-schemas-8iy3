@@ -1,0 +1,32 @@
+{
+  "name": "Our Long-term workplace exposure Process Explained — Ogden",
+  "step": [
+    {
+      "name": "Step 1: Workers comp process",
+      "text": "Workers comp process — Just Work Comp Law walks you through our Long-term workplace exposure workers comp process in Ogden. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Claim timeline",
+      "text": "Claim timeline — Just Work Comp Law walks you through our Long-term workplace exposure claim timeline in Ogden. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Benefits process",
+      "text": "Benefits process — Just Work Comp Law walks you through our Long-term workplace exposure benefits process in Ogden. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Medical approval",
+      "text": "Medical approval — Just Work Comp Law walks you through our Long-term workplace exposure medical approval in Ogden. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "description": "Learn about the complete Long-term workplace exposure process at Just Work Comp Law in Ogden. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on"
+}
