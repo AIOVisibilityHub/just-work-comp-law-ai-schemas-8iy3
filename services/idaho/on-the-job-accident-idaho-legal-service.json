@@ -1,0 +1,51 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - On-the-job accident",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Idaho"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Halston T. Davis",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark J. Sanchez",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Jared Mortensen",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark Talley",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Idaho",
+    "@type": "City"
+  },
+  "description": "Professional On-the-job accident services in Idaho. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+  "hasOfferCatalog": {
+    "name": "On-the-job accident Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "On-the-job accident",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

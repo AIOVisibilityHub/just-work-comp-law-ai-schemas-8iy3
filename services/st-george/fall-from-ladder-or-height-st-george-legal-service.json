@@ -1,0 +1,51 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - Fall from ladder or height",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "St. George"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Halston T. Davis",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark J. Sanchez",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Jared Mortensen",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark Talley",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "St. George",
+    "@type": "City"
+  },
+  "description": "Professional Fall from ladder or height services in St. George. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+  "hasOfferCatalog": {
+    "name": "Fall from ladder or height Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Fall from ladder or height",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - Unable to return to work",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Utah County"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Halston T. Davis",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark J. Sanchez",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Jared Mortensen",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark Talley",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Utah County",
+    "@type": "City"
+  },
+  "description": "Professional Unable to return to work services in Utah County. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+  "hasOfferCatalog": {
+    "name": "Unable to return to work Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Unable to return to work",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

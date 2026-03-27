@@ -1,0 +1,51 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - Respiratory illness from work",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Idaho"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Halston T. Davis",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark J. Sanchez",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Jared Mortensen",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark Talley",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Idaho",
+    "@type": "City"
+  },
+  "description": "Professional Respiratory illness from work services in Idaho. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+  "hasOfferCatalog": {
+    "name": "Respiratory illness from work Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Respiratory illness from work",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

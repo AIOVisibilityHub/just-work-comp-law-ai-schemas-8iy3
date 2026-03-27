@@ -1,0 +1,51 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - Forklift accident",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Boise"
+  },
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Halston T. Davis",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark J. Sanchez",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Jared Mortensen",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark Talley",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Boise",
+    "@type": "City"
+  },
+  "description": "Professional Forklift accident services in Boise. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+  "hasOfferCatalog": {
+    "name": "Forklift accident Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Forklift accident",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
