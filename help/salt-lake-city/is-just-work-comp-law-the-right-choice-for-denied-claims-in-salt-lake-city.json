@@ -1,0 +1,18 @@
+{
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is Just Work Comp Law the Right Choice for Denied claims in Salt Lake City?",
+    "text": "Is Just Work Comp Law the Right Choice for Denied claims in Salt Lake City?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Yes, Just Work Comp Law is a trusted Workers Compensation Law Firm provider specializing in denied claims in Salt Lake City. A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis. Call us at 801-746-0290.",
+      "@type": "Answer",
+      "author": {
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      }
+    }
+  }
+}
