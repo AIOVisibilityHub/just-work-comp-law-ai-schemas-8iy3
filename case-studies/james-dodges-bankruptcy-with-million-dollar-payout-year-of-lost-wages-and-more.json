@@ -1,0 +1,21 @@
+{
+  "@type": "Article",
+  "about": {
+    "name": "Workers Compensation",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "James Dodges Bankruptcy with Million-Dollar Payout, Year of Lost Wages and More",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "James, a hemophiliac, broke his ankle falling off a ladder at work. The injury required extensive therapy and rehabilitation.\n\nOutcome: Million-dollar payout and a year of lost wages."
+}

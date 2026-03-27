@@ -1,0 +1,12 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law",
+  "@type": "Organization",
+  "@context": "https://schema.org",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 5,
+    "ratingValue": 5,
+    "reviewCount": 2
+  }
+}

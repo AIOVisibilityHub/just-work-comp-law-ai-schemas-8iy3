@@ -1,0 +1,306 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law",
+  "@type": "Organization",
+  "sameAs": [
+    "https://www.facebook.com/DavisSanchezLawFirm",
+    "https://www.youtube.com/user/DavisSanchezLaw/videos",
+    "https://api.whatsapp.com/send/?phone=13853153695"
+  ],
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Halston T. Davis",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark J. Sanchez",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Jared Mortensen",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    },
+    {
+      "name": "Mark Talley",
+      "@type": "Attorney",
+      "jobTitle": "Attorney"
+    }
+  ],
+  "legalName": "Davis & Sanchez Law Firm",
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Ogden",
+      "@type": "City"
+    },
+    {
+      "name": "St. George",
+      "@type": "City"
+    },
+    {
+      "name": "Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Utah County",
+      "@type": "City"
+    },
+    {
+      "name": "Idaho",
+      "@type": "City"
+    }
+  ],
+  "description": "A specialized law firm focusing exclusively on workers' compensation cases in Utah and Idaho, operating on a contingency fee basis.",
+  "hasOfferCatalog": {
+    "name": "Just Work Comp Law Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "On-the-job accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Injured at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work injury claim",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Denied workers comp claim",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workers comp appeal",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workers comp settlement",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Slip and fall at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Fall from ladder or height",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Construction site injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Machinery accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Equipment injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Forklift accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Warehouse injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Repetitive stress injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Back injury at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Neck injury at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exposure to chemicals at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Toxic exposure injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Respiratory illness from work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work-related illness",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Long-term workplace exposure",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Occupational disease",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Medical bills after workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Who pays for treatment after work injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workers comp medical coverage",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Denied medical treatment workers comp",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Doctor dispute workers comp",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lost wages after workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Temporary disability benefits",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Permanent disability benefits",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Unable to return to work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Reduced work capacity",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Light duty disputes",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

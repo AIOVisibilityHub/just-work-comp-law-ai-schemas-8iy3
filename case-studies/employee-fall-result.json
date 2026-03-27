@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Employee Fall Result",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Employee Fall\n\nOutcome: $1.6 Million"
+}

@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Delivery Accident Result",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Delivery Accident\n\nOutcome: $200K"
+}

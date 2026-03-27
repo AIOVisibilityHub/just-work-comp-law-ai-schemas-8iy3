@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Machine Accident Result",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Machine Accident\n\nOutcome: $248K"
+}
