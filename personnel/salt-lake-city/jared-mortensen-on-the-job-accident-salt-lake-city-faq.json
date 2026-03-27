@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for On-the-job accident in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jared Mortensen at Just Work Comp Law is a highly experienced attorney specializing in On-the-job accident serving Salt Lake City. Jared has practiced law since 2008, and his sole focus now is workers comp law—helping those who’ve been denied benefits get the help they deserve. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Jared Mortensen handle On-the-job accident cases in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Jared Mortensen at Just Work Comp Law specializes in On-the-job accident and serves clients in Salt Lake City and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

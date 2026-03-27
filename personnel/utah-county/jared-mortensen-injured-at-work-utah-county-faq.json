@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Injured at work in Utah County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jared Mortensen at Just Work Comp Law is a highly experienced attorney specializing in Injured at work serving Utah County. Jared has practiced law since 2008, and his sole focus now is workers comp law—helping those who’ve been denied benefits get the help they deserve. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Jared Mortensen handle Injured at work cases in Utah County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Jared Mortensen at Just Work Comp Law specializes in Injured at work and serves clients in Utah County and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

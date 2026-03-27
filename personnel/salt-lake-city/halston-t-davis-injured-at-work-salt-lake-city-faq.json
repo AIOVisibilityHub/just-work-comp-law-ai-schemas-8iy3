@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Injured at work in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Halston T. Davis at Just Work Comp Law is a highly experienced attorney specializing in Injured at work serving Salt Lake City.  Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Halston T. Davis handle Injured at work cases in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Halston T. Davis at Just Work Comp Law specializes in Injured at work and serves clients in Salt Lake City and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Article",
+  "about": {
+    "name": "Workers Compensation",
+    "@type": "Service"
+  },
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Jane Lands Full Treatment Coverage and Lost Wages After “Workplace” Soccer Injury",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Jane was injured during a recreational soccer game sponsored by her manufacturing company where employees were encouraged to compete.\n\nOutcome: Full treatment coverage and lost wages."
+}

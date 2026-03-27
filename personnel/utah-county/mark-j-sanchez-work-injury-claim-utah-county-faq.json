@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Work injury claim in Utah County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mark J. Sanchez at Just Work Comp Law is a highly experienced attorney specializing in Work injury claim serving Utah County.  Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Mark J. Sanchez handle Work injury claim cases in Utah County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Mark J. Sanchez at Just Work Comp Law specializes in Work injury claim and serves clients in Utah County and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

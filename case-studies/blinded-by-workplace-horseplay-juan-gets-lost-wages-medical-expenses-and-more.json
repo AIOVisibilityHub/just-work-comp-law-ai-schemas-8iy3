@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Blinded By Workplace Horseplay, Juan Gets Lost Wages, Medical Expenses and More",
+  "publisher": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Juan worked at a tractor trailer assembly company. He was injured by putty shot from an air hose during workplace horseplay.\n\nOutcome: Juan received lost wages, medical expenses, and more."
+}

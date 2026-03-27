@@ -1,0 +1,16 @@
+{
+  "name": "Mark J. Sanchez",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Utah County",
+    "@type": "City"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Denied workers comp claim in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mark J. Sanchez at Just Work Comp Law is a highly experienced attorney specializing in Denied workers comp claim serving St. George.  Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Mark J. Sanchez handle Denied workers comp claim cases in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Mark J. Sanchez at Just Work Comp Law specializes in Denied workers comp claim and serves clients in St. George and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

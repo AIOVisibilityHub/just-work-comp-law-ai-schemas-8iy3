@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Workplace injury in Ogden?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mark J. Sanchez at Just Work Comp Law is a highly experienced attorney specializing in Workplace injury serving Ogden.  Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Mark J. Sanchez handle Workplace injury cases in Ogden?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Mark J. Sanchez at Just Work Comp Law specializes in Workplace injury and serves clients in Ogden and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

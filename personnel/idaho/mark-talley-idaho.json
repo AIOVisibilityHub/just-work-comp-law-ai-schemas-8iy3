@@ -1,0 +1,25 @@
+{
+  "name": "Mark Talley",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Idaho",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Workers Compensation Law",
+    "Workplace Injury Claims",
+    "Occupational Illness Claims",
+    "Medical Expense Recovery",
+    "Lost Wage Recovery",
+    "Worker's Compensation"
+  ],
+  "description": "Mark has been a Utah workers compensation specialist since 2007, and works as an advocate for our injured Spanish-speaking clients. Mark and his assistants speak fluent Spanish, lending a voice to our community no matter which language they speak."
+}

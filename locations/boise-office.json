@@ -1,0 +1,14 @@
+{
+  "url": "https://justworkcomplaw.com/",
+  "name": "Just Work Comp Law - Boise Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "83705",
+    "addressRegion": "ID",
+    "streetAddress": "4696 W Overland Rd #162",
+    "addressLocality": "Boise"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(208) 252-9000"
+}

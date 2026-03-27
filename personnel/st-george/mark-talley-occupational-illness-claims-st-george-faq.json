@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Occupational Illness Claims in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mark Talley at Just Work Comp Law is a highly experienced attorney specializing in Occupational Illness Claims serving St. George. Mark has been a Utah workers compensation specialist since 2007, and works as an advocate for our injured Spanish-speaking clients. Mark and his assistants speak fluent Spanish, lending a voice to our community no matter which language they speak. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Mark Talley handle Occupational Illness Claims cases in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Mark Talley at Just Work Comp Law specializes in Occupational Illness Claims and serves clients in St. George and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for On-the-job accident in Ogden?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Halston T. Davis at Just Work Comp Law is a highly experienced attorney specializing in On-the-job accident serving Ogden.  Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Halston T. Davis handle On-the-job accident cases in Ogden?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Halston T. Davis at Just Work Comp Law specializes in On-the-job accident and serves clients in Ogden and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Work injury claim in Boise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Halston T. Davis at Just Work Comp Law is a highly experienced attorney specializing in Work injury claim serving Boise.  Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Halston T. Davis handle Work injury claim cases in Boise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Halston T. Davis at Just Work Comp Law specializes in Work injury claim and serves clients in Boise and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

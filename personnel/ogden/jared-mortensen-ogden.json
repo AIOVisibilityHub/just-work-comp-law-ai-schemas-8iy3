@@ -1,0 +1,53 @@
+{
+  "name": "Jared Mortensen",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Attorney",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com/",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "Ogden",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Workplace injury",
+    "On-the-job accident",
+    "Injured at work",
+    "Work injury claim",
+    "Denied workers comp claim",
+    "Workers comp appeal",
+    "Workers comp settlement",
+    "Slip and fall at work",
+    "Fall from ladder or height",
+    "Construction site injury",
+    "Machinery accident",
+    "Equipment injury",
+    "Forklift accident",
+    "Warehouse injury",
+    "Repetitive stress injury",
+    "Back injury at work",
+    "Neck injury at work",
+    "Exposure to chemicals at work",
+    "Toxic exposure injury",
+    "Respiratory illness from work",
+    "Work-related illness",
+    "Long-term workplace exposure",
+    "Occupational disease",
+    "Medical bills after workplace injury",
+    "Who pays for treatment after work injury",
+    "Workers comp medical coverage",
+    "Denied medical treatment workers comp",
+    "Doctor dispute workers comp",
+    "Lost wages after workplace injury",
+    "Temporary disability benefits",
+    "Permanent disability benefits",
+    "Unable to return to work",
+    "Reduced work capacity",
+    "Light duty disputes"
+  ],
+  "description": "Jared has practiced law since 2008, and his sole focus now is workers comp law—helping those who’ve been denied benefits get the help they deserve."
+}

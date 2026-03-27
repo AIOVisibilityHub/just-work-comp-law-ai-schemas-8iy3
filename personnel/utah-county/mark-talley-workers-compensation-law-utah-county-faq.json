@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Workers Compensation Law in Utah County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mark Talley at Just Work Comp Law is a highly experienced attorney specializing in Workers Compensation Law serving Utah County. Mark has been a Utah workers compensation specialist since 2007, and works as an advocate for our injured Spanish-speaking clients. Mark and his assistants speak fluent Spanish, lending a voice to our community no matter which language they speak. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Mark Talley handle Workers Compensation Law cases in Utah County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Mark Talley at Just Work Comp Law specializes in Workers Compensation Law and serves clients in Utah County and surrounding areas. ",
+        "@type": "Answer"
+      }
+    }
+  ]
+}
